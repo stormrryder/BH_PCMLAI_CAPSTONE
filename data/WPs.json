@@ -1,0 +1,304 @@
+{
+  "Component/s": {
+    "ID-1": [
+      "COMP_A",
+      "COMP_B"
+    ],
+    "ID-2": [
+      "COMP_C"
+    ],
+    "ID-3": [
+      "COMP_A",
+      "COMP_D"
+    ],
+    "ID-4": [
+      "COMP_A",
+      "COMP_B",
+      "COMP_C",
+      "COMP_D"
+    ],
+    "ID-5": [
+      "COMP_A",
+      "COMP_B"
+    ],
+    "ID-6": [
+      "COMP_C"
+    ],
+    "ID-7": [
+      "COMP_A",
+      "COMP_D"
+    ],
+    "ID-8": [
+      "COMP_A",
+      "COMP_B",
+      "COMP_C",
+      "COMP_E"
+    ],
+    "ID-9": [
+      "COMP_E"
+    ],
+    "ID-10": [
+      "COMP_A",
+      "COMP_E"
+    ],
+    "ID-11": [
+      "COMP_D",
+      "COMP_E"
+    ],
+    "ID-12": [
+      "COMP_D"
+    ],
+    "ID-13": [
+      "COMP_B",
+      "COMP_D"
+    ],
+    "ID-14": [
+      "COMP_A",
+      "COMP_B"
+    ],
+    "ID-15": [
+      "COMP_C"
+    ],
+    "ID-16": [
+      "COMP_A",
+      "COMP_D"
+    ],
+    "ID-17": [
+      "COMP_A",
+      "COMP_B",
+      "COMP_C",
+      "COMP_D"
+    ],
+    "ID-18": [
+      "COMP_A",
+      "COMP_B"
+    ],
+    "ID-19": [
+      "COMP_C"
+    ],
+    "ID-20": [
+      "COMP_A",
+      "COMP_D"
+    ],
+    "ID-21": [
+      "COMP_A",
+      "COMP_B",
+      "COMP_C",
+      "COMP_E"
+    ],
+    "ID-22": [
+      "COMP_E"
+    ],
+    "ID-23": [
+      "COMP_A",
+      "COMP_E"
+    ],
+    "ID-24": [
+      "COMP_D",
+      "COMP_E"
+    ],
+    "ID-25": [
+      "COMP_D"
+    ],
+    "ID-26": [
+      "COMP_B",
+      "COMP_D"
+    ]
+  },
+  "Criticality": {
+    "ID-1": null,
+    "ID-2": "1A - Significant Operational Effect",
+    "ID-3": "1B - No Significant Operational Effect",
+    "ID-4": "4B - Documentation Improvement",
+    "ID-5": null,
+    "ID-6": "4C - New Feature",
+    "ID-7": "2 - No Operational Effect",
+    "ID-8": "3B - Non-Significant Process Deviation",
+    "ID-9": "1A - Significant Operational Effect",
+    "ID-10": "3A - Significant Process Deviation",
+    "ID-11": "4A - Product Improvement",
+    "ID-12": null,
+    "ID-13": "1B - No Significant Operational Effect",
+    "ID-14": null,
+    "ID-15": "1A - Significant Operational Effect",
+    "ID-16": "1B - No Significant Operational Effect",
+    "ID-17": "4B - Documentation Improvement",
+    "ID-18": null,
+    "ID-19": "4C - New Feature",
+    "ID-20": "2 - No Operational Effect",
+    "ID-21": "3B - Non-Significant Process Deviation",
+    "ID-22": "1A - Significant Operational Effect",
+    "ID-23": "3A - Significant Process Deviation",
+    "ID-24": "4A - Product Improvement",
+    "ID-25": null,
+    "ID-26": "1B - No Significant Operational Effect"
+  },
+  "Description": {
+    "ID-1": "When the avionics display system is powered on, the screen remains blank. No information or visuals are displayed. This issue occurs consistently on multiple units.",
+    "ID-2": "The weather radar overlay on the avionics display system shows distorted colors. Instead of accurately representing weather conditions, the colors appear incorrect and distorted. This issue is observed consistently across different weather conditions.",
+    "ID-3": "The map display on the avionics system freezes intermittently during flight. The frozen screen persists for several seconds before returning to normal operation. This issue occurs randomly, making it challenging to predict when the freeze will happen.",
+    "ID-4": "The touchscreens on the primary flight display (PFD) of the avionics system do not respond to touch inputs consistently. Touch gestures and commands often fail to register or have a significant delay in response.",
+    "ID-5": "The touchscreens on the primary flight display (PFD) of the avionics system do not respond to touch inputs consistently. Touch gestures and commands often fail to register or have a significant delay in response.",
+    "ID-6": "The compass rose on the avionics system displays an inaccurate heading indication. The displayed heading does not correspond to the actual heading of the aircraft. This discrepancy persists throughout the flight.",
+    "ID-7": "The avionics display system is providing inaccurate heading information. The heading displayed does not match the aircraft's actual heading. This issue is consistent across multiple aircraft.",
+    "ID-8": "The avionics display system crashes unexpectedly during flight. The system restarts after a few seconds, but the interruption can cause confusion and distract the pilots.",
+    "ID-9": "The avionics display system crashes unexpectedly during flight. The system restarts after a few seconds, but the interruption can cause confusion and distract the pilots.",
+    "ID-10": "The touch screen on the avionics display system has a slow response time. It takes a noticeable delay for the system to register touch inputs. This issue occurs consistently across multiple units.",
+    "ID-11": "The avionics display system is providing inconsistent altitude readings. The altitude displayed fluctuates rapidly, making it difficult for pilots to determine the plane's actual altitude. This issue occurs consistently across multiple aircraft.",
+    "ID-12": "The avionics display system is providing incorrect airspeed indications. The displayed airspeed does not match the actual airspeed of the aircraft. This issue occurs consistently across multiple aircraft.",
+    "ID-13": "The brightness control feature on the avionics display system is unresponsive. Adjusting the brightness setting does not result in any visible changes on the screen. This issue occurs consistently across multiple units.",
+    "ID-14": "When the avionics display system is powered on, the screen remains blank. No information or visuals are displayed. This issue occurs consistently on multiple units.",
+    "ID-15": "The weather radar overlay on the avionics display system shows distorted colors. Instead of accurately representing weather conditions, the colors appear incorrect and distorted. This issue is observed consistently across different weather conditions.",
+    "ID-16": "The map display on the avionics system freezes intermittently during flight. The frozen screen persists for several seconds before returning to normal operation. This issue occurs randomly, making it challenging to predict when the freeze will happen.",
+    "ID-17": "The brightness levels of the multi-function displays (MFDs) on the avionics system vary inconsistently. Some MFDs appear too dim, while others are excessively bright. This issue persists across different lighting conditions.",
+    "ID-18": "The compass rose on the avionics system displays an inaccurate heading indication. The displayed heading does not correspond to the actual heading of the aircraft. This discrepancy persists throughout the flight.",
+    "ID-19": "The compass rose on the avionics system displays an inaccurate heading indication. The displayed heading does not correspond to the actual heading of the aircraft. This discrepancy persists throughout the flight.",
+    "ID-20": "The avionics display system is providing inaccurate heading information. The heading displayed does not match the aircraft's actual heading. This issue is consistent across multiple aircraft.",
+    "ID-21": "The avionics display system crashes unexpectedly during flight. The system restarts after a few seconds, but the interruption can cause confusion and distract the pilots.",
+    "ID-22": "The avionics display system crashes unexpectedly during flight. The system restarts after a few seconds, but the interruption can cause confusion and distract the pilots.",
+    "ID-23": "The touch screen on the avionics display system has a slow response time. It takes a noticeable delay for the system to register touch inputs. This issue occurs consistently across multiple units.",
+    "ID-24": "The avionics display system is providing inconsistent altitude readings. The altitude displayed fluctuates rapidly, making it difficult for pilots to determine the plane's actual altitude. This issue occurs consistently across multiple aircraft.",
+    "ID-25": "The avionics display system is providing incorrect airspeed indications. The displayed airspeed does not match the actual airspeed of the aircraft. This issue occurs consistently across multiple aircraft.",
+    "ID-26": "The brightness control feature on the avionics display system is unresponsive. Adjusting the brightness setting does not result in any visible changes on the screen. This issue occurs consistently across multiple units."
+  },
+  "FUSNPL Plain English Description": {
+    "ID-1": "When the avionics display system is turned on, the screen stays empty. It doesn't show any important information like how high the plane is, how fast it's going, or where it's supposed to go. This is a problem because pilots need this information to know what's happening during the flight. It's dangerous because they can't make informed decisions.",
+    "ID-2": "The avionics display system's weather radar overlay has a problem with colors. Instead of showing weather conditions correctly, the colors look wrong and strange. This is a problem because pilots need to understand weather patterns to avoid dangerous situations like storms. The incorrect colors can mislead them and put the flight at risk.",
+    "ID-3": "The avionics system's map display sometimes stops working for a few seconds during the flight. It just freezes and doesn't show any new information. This is a problem because pilots need the map to know where they are and where they're going. If the map freezes, they can get lost or fly into dangerous situations.",
+    "ID-4": "The touchscreens on the main display of the avionics system sometimes don't work when pilots touch them. They may not respond or take a long time to respond. This is a problem because pilots need to interact with the touchscreens to access important information about the flight. If the touchscreens don't work properly, it can slow them down and make it harder to understand what's happening.",
+    "ID-5": "The touchscreens on the main display of the avionics system sometimes don't work when pilots touch them. They may not respond or take a long time to respond. This is a problem because pilots need to interact with the touchscreens to access important information about the flight. If the touchscreens don't work properly, it can slow them down and make it harder to understand what's happening.",
+    "ID-6": "The avionics system's compass rose shows the wrong direction that the plane is facing. The displayed heading is different from the actual direction of the plane. This is a problem because pilots use the compass to know which way they're going. If the compass shows the wrong heading, it can make pilots go in the wrong direction and cause conflicts with other planes.",
+    "ID-7": "The avionics display system shows the wrong direction the plane is heading. This is a problem because pilots need to know the direction to navigate safely. If the system shows the wrong direction, they can get lost or fly into dangerous situations.",
+    "ID-8": "The avionics display system sometimes stops working suddenly during the flight. It restarts after a few seconds, but this can be confusing for pilots. This is a problem because pilots need the information from the system to fly safely. If it stops working, they might not know what's happening during the flight."    ,
+    "ID-9": "The avionics display system sometimes stops working suddenly during the flight. It restarts after a few seconds, but this can be confusing for pilots. This is a problem because pilots need the information from the system to fly safely. If it stops working, they might not know what's happening during the flight."    ,
+    "ID-10": "The touch screen on the avionics display system responds slowly when pilots touch it. There's a noticeable delay before it recognizes their touches. This is a problem because pilots need to interact with the screen quickly and efficiently. If it responds slowly, they might waste time or make mistakes during critical tasks.",
+    "ID-11": "The avionics display system shows the wrong altitude of the plane. The altitude number changes quickly, so pilots can't tell how high they actually are. This is a problem because pilots need to know the altitude to fly safely. If the system shows the wrong altitude, they can get lost or fly into dangerous situations.",
+    "ID-12": "The avionics display system shows the wrong speed of the plane. The speed number is not accurate and doesn't match how fast the plane is actually going. This is a problem because pilots need to know the correct speed to control the plane safely. If the system shows the wrong speed, they might make mistakes or not have enough time to react.",
+    "ID-13": "The avionics display system doesn't respond when pilots try to adjust the screen brightness. They can't make the screen brighter or dimmer, so it stays the same regardless of the lighting conditions. This is a problem because pilots need to see the information on the screen clearly. If the brightness doesn't change, it can strain their eyes or make it hard to read important information.",
+    "ID-14": "When the avionics display system is turned on, the screen stays empty. It doesn't show any important information like how high the plane is, how fast it's going, or where it's supposed to go. This is a problem because pilots need this information to know what's happening during the flight. It's dangerous because they can't make informed decisions.",
+    "ID-15": "The avionics display system's weather radar overlay has a problem with colors. Instead of showing weather conditions correctly, the colors look wrong and strange. This is a problem because pilots need to understand weather patterns to avoid dangerous situations like storms. The incorrect colors can mislead them and put the flight at risk.",
+    "ID-16": "The avionics system's map display sometimes stops working for a few seconds during the flight. It just freezes and doesn't show any new information. This is a problem because pilots need the map to know where they are and where they're going. If the map freezes, they can get lost or fly into dangerous situations.",
+    "ID-17": "The touchscreens on the main display of the avionics system sometimes don't work when pilots touch them. They may not respond or take a long time to respond. This is a problem because pilots need to interact with the touchscreens to access important information about the flight. If the touchscreens don't work properly, it can slow them down and make it harder to understand what's happening.",
+    "ID-18": "The touchscreens on the main display of the avionics system sometimes don't work when pilots touch them. They may not respond or take a long time to respond. This is a problem because pilots need to interact with the touchscreens to access important information about the flight. If the touchscreens don't work properly, it can slow them down and make it harder to understand what's happening.",
+    "ID-19": "The avionics system's compass rose shows the wrong direction that the plane is facing. The displayed heading is different from the actual direction of the plane. This is a problem because pilots use the compass to know which way they're going. If the compass shows the wrong heading, it can make pilots go in the wrong direction and cause conflicts with other planes.",
+    "ID-20": "The avionics display system shows the wrong direction the plane is heading. This is a problem because pilots need to know the direction to navigate safely. If the system shows the wrong direction, they can get lost or fly into dangerous situations.",
+    "ID-21": "The avionics display system sometimes stops working suddenly during the flight. It restarts after a few seconds, but this can be confusing for pilots. This is a problem because pilots need the information from the system to fly safely. If it stops working, they might not know what's happening during the flight."    ,
+    "ID-22": "The avionics display system sometimes stops working suddenly during the flight. It restarts after a few seconds, but this can be confusing for pilots. This is a problem because pilots need the information from the system to fly safely. If it stops working, they might not know what's happening during the flight."    ,
+    "ID-23": "The touch screen on the avionics display system responds slowly when pilots touch it. There's a noticeable delay before it recognizes their touches. This is a problem because pilots need to interact with the screen quickly and efficiently. If it responds slowly, they might waste time or make mistakes during critical tasks.",
+    "ID-24": "The avionics display system shows the wrong altitude of the plane. The altitude number changes quickly, so pilots can't tell how high they actually are. This is a problem because pilots need to know the altitude to fly safely. If the system shows the wrong altitude, they can get lost or fly into dangerous situations.",
+    "ID-25": "The avionics display system shows the wrong speed of the plane. The speed number is not accurate and doesn't match how fast the plane is actually going. This is a problem because pilots need to know the correct speed to control the plane safely. If the system shows the wrong speed, they might make mistakes or not have enough time to react.",
+    "ID-26": "The avionics display system doesn't respond when pilots try to adjust the screen brightness. They can't make the screen brighter or dimmer, so it stays the same regardless of the lighting conditions. This is a problem because pilots need to see the information on the screen clearly. If the brightness doesn't change, it can strain their eyes or make it hard to read important information."
+  },
+  "Operational Impact": {
+    "ID-1": "The blank screen prevents pilots from accessing critical flight information such as altitude, airspeed, and navigation data. It hampers situational awareness and poses a safety risk during all flight phases.",
+    "ID-2": "The color distortion on the weather radar overlay makes it difficult for pilots to interpret weather patterns accurately. They may misjudge the severity of storms or other hazardous weather conditions, compromising flight safety.",
+    "ID-3": "The intermittent freezing of the map display disrupts pilots' situational awareness. They may lose track of their position, navigation waypoints, or other crucial map information. It can lead to navigation errors and potential conflicts with other aircraft.",
+    "ID-4":  "The unresponsive touchscreens hinder pilots' ability to interact with the PFD effectively. It can slow down or impede their access to critical flight information and functionality, impacting decision-making and situational awareness.",
+    "ID-5": "The unresponsive touchscreens hinder pilots' ability to interact with the PFD effectively. It can slow down or impede their access to critical flight information and functionality, impacting decision-making and situational awareness.",
+    "ID-6": "The inaccurate heading indication on the compass rose can lead to incorrect navigation decisions and heading adjustments. It can cause pilots to deviate from planned flight paths and disrupt air traffic control coordination, potentially resulting in conflicts with other aircraft.",
+    "ID-7": "Inaccurate heading information can lead to navigation errors and potential conflicts with other aircraft. It can also cause confusion and a loss of situational awareness for the pilots.",
+    "ID-8": "A system crash during flight can lead to a loss of critical flight information and navigational data. It can also cause confusion and a loss of situational awareness, potentially leading to accidents.",
+    "ID-9": "A system crash during flight can lead to a loss of critical flight information and navigational data. It can also cause confusion and a loss of situational awareness, potentially leading to accidents.",
+    "ID-10": "The slow response time of the touch screen can lead to frustration and a decrease in operational efficiency for pilots. It can also hinder their ability to interact with the system quickly, potentially affecting critical tasks during flight.",
+    "ID-11": "Inconsistent altitude readings can lead to navigation errors and potential conflicts with other aircraft. It can also cause confusion and a loss of situational awareness for the pilots.",
+    "ID-12": "Incorrect airspeed indications can lead to incorrect decisions regarding aircraft performance and speed control. It can also affect flight planning, fuel management, and overall flight safety.",
+    "ID-13": "The unresponsive brightness control feature hampers pilots' ability to adjust the screen's brightness according to ambient lighting conditions. It can cause discomfort, eye strain, and difficulties in reading the displayed information.",
+    "ID-14": "The blank screen prevents pilots from accessing critical flight information such as altitude, airspeed, and navigation data. It hampers situational awareness and poses a safety risk during all flight phases.",
+    "ID-15": "The color distortion on the weather radar overlay makes it difficult for pilots to interpret weather patterns accurately. They may misjudge the severity of storms or other hazardous weather conditions, compromising flight safety.",
+    "ID-16": "The intermittent freezing of the map display disrupts pilots' situational awareness. They may lose track of their position, navigation waypoints, or other crucial map information. It can lead to navigation errors and potential conflicts with other aircraft.",
+    "ID-17": "The unresponsive touchscreens hinder pilots' ability to interact with the PFD effectively. It can slow down or impede their access to critical flight information and functionality, impacting decision-making and situational awareness.",
+    "ID-18": "The unresponsive touchscreens hinder pilots' ability to interact with the PFD effectively. It can slow down or impede their access to critical flight information and functionality, impacting decision-making and situational awareness.",
+    "ID-19": "The inaccurate heading indication on the compass rose can lead to incorrect navigation decisions and heading adjustments. It can cause pilots to deviate from planned flight paths and disrupt air traffic control coordination, potentially resulting in conflicts with other aircraft.",
+    "ID-20": "Inaccurate heading information can lead to navigation errors and potential conflicts with other aircraft. It can also cause confusion and a loss of situational awareness for the pilots.",
+    "ID-21": "A system crash during flight can lead to a loss of critical flight information and navigational data. It can also cause confusion and a loss of situational awareness, potentially leading to accidents.",
+    "ID-22": "A system crash during flight can lead to a loss of critical flight information and navigational data. It can also cause confusion and a loss of situational awareness, potentially leading to accidents.",
+    "ID-23": "The slow response time of the touch screen can lead to frustration and a decrease in operational efficiency for pilots. It can also hinder their ability to interact with the system quickly, potentially affecting critical tasks during flight.",
+    "ID-24": "Inconsistent altitude readings can lead to navigation errors and potential conflicts with other aircraft. It can also cause confusion and a loss of situational awareness for the pilots.",
+    "ID-25": "Incorrect airspeed indications can lead to incorrect decisions regarding aircraft performance and speed control. It can also affect flight planning, fuel management, and overall flight safety.",
+    "ID-26": "The unresponsive brightness control feature hampers pilots' ability to adjust the screen's brightness according to ambient lighting conditions. It can cause discomfort, eye strain, and difficulties in reading the displayed information."
+  },
+  "Summary": {
+    "ID-1": "Blank screen on startup",
+    "ID-2": "Color distortion on weather radar overlay",
+    "ID-3": "Intermittent freezing of map display",
+    "ID-4": "Unresponsive touchscreens on primary flight display",
+    "ID-5": "Unresponsive touchscreens on primary flight display",
+    "ID-6": "Inaccurate heading indication on compass rose",
+    "ID-7": "Inaccurate heading information",
+    "ID-8": "System crash. during flight",
+    "ID-9": "System crash. during flight",
+    "ID-10": "Inconsistent altitude readings",
+    "ID-11": "Slow response time on touch screen",
+    "ID-12": "Incorrect airspeed indications",
+    "ID-13": "Unresponsive brightness control",
+    "ID-14": "Blank screen on startup",
+    "ID-15": "Color distortion on weather radar overlay",
+    "ID-16": "Intermittent freezing of map display",
+    "ID-17": "Unresponsive touchscreens on primary flight display",
+    "ID-18": "Unresponsive touchscreens on primary flight display",
+    "ID-19": "Inaccurate heading indication on compass rose",
+    "ID-20": "Inaccurate heading information",
+    "ID-21": "System crash. during flight",
+    "ID-22": "System crash. during flight",
+    "ID-23": "Inconsistent altitude readings",
+    "ID-24": "Slow response time on touch screen",
+    "ID-25": "Incorrect airspeed indications",
+    "ID-26": "Unresponsive brightness control"
+  },
+  "Work Package Type": {
+    "ID-1": "Enhancement",
+    "ID-2": "Program Improvement",
+    "ID-3": "Agile - Enabler",
+    "ID-4": "Enhancement",
+    "ID-5": "Program Planned",
+    "ID-6": "Defect",
+    "ID-7": "Defect",
+    "ID-8": "Enhancement",
+    "ID-9": "Defect",
+    "ID-10": "Program Planned",
+    "ID-11": "Defect",
+    "ID-12": "Defect",
+    "ID-13": null,
+    "ID-14": "Enhancement",
+    "ID-15": "Program Improvement",
+    "ID-16": "Agile - Enabler",
+    "ID-17": "Enhancement",
+    "ID-18": "Program Planned",
+    "ID-19": "Defect",
+    "ID-20": "Defect",
+    "ID-21": "Enhancement",
+    "ID-22": "Defect",
+    "ID-23": "Program Planned",
+    "ID-24": "Defect",
+    "ID-25": "Defect",
+    "ID-26": null
+  },
+  "Backward": {
+    "ID-1": 0,
+    "ID-2": 0,
+    "ID-3": 1,
+    "ID-4": 0,
+    "ID-5": 0,
+    "ID-6": 1,
+    "ID-7": 0,
+    "ID-8": 0,
+    "ID-9": 1,
+    "ID-10": 1,
+    "ID-11": 0,
+    "ID-12": 0,
+    "ID-13": 1,
+    "ID-14": 0,
+    "ID-15": 0,
+    "ID-16": 1,
+    "ID-17": 0,
+    "ID-18": 0,
+    "ID-19": 1,
+    "ID-20": 0,
+    "ID-21": 1,
+    "ID-22": 0,
+    "ID-23": 1,
+    "ID-24": 0,
+    "ID-25": 0,
+    "ID-26": 1
+  }
+}
